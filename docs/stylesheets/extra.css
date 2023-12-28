@@ -1,0 +1,30 @@
+:root {
+    --md-primary-fg-color:        green;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+}
+
+.md-header {
+    background-color: whitesmoke;
+}
+
+.md-header__title {
+    color: var(--md-primary-fg-color);
+}
+
+.md-footer {
+    background-color: whitesmoke;
+}
+
+.md-footer__title {
+    color: var(--md-primary-fg-color);
+}
+
+.md-footer__button {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+}
+
+.md-footer-meta {
+    background-color: var(--md-primary-fg-color);
+}
