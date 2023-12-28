@@ -20,6 +20,7 @@ jobs:
           pip install mkdocs-material
 
       - name: Build and deploy
-        uses: gautamkrishnar/mkdocs-deploy-gh-pages@master
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          mkdocs_version: 1.0.0
