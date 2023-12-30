@@ -12,7 +12,7 @@ Bookmark Plus is sponsored by Vidura Labs ([https://vidura.ai](https://vidura.ai
 
 Click to watch our global intro on YouTube:
 
-[![Bookmark Plus Intro](./yt-play.png)](https://www.youtube.com/watch?v=vO3563syE2M)
+[![Bookmark Plus Intro](./yt-play.png)](https://www.youtube.com/watch?v=NLN3MKQ0jIw)
 
 ## Main Features of Bookmark Plus
 

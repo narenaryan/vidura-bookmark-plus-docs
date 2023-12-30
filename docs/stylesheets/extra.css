@@ -28,3 +28,7 @@
 .md-footer-meta {
     background-color: var(--md-primary-fg-color);
 }
+
+.md-header__button.md-icon {
+    color: var(--md-primary-fg-color);
+}
